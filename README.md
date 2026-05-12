@@ -5,7 +5,7 @@
 Currently focused on building **AI-powered SaaS platforms** and **scalable backend systems**. I enjoy solving real-world problems with clean architecture, modern tools, and intelligent systems.
 
 ---
-<div align="center">
+
 <!-- ANIMATED HEADER -->
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=200&section=header&text=VIRAJ%20THAKUR&fontSize=60&fontColor=00f5ff&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=18&descColor=a0aec0&descAlignY=75&animation=fadeIn" />

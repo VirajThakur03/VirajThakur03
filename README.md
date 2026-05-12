@@ -6,12 +6,10 @@ Currently focused on building **AI-powered SaaS platforms** and **scalable backe
 
 ---
 
-<!-- ANIMATED HEADER -->
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=200&section=header&text=VIRAJ%20THAKUR&fontSize=60&fontColor=00f5ff&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=18&descColor=a0aec0&descAlignY=75&animation=fadeIn" />
-</picture>
+<div align="center">
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Turning+ideas+into+production+apps;Building+AI-powered+SaaS+platforms;Shipping+scalable+backend+systems;Clean+architecture+%7C+Intelligent+systems" alt="Typing SVG" /></a>
+</div>
 
 ### 🚀 Featured Projects
 

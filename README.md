@@ -34,7 +34,8 @@
   <!-- Project Cards -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 24px; max-width: 1200px; margin: 0 auto; padding: 0 20px;">
 
-    <!-- LieLens AI -->
+  <!-- LieLens AI -->
+    
     <div style="background: #0f0f1e; border: 2px solid #ff00ff; border-radius: 16px; padding: 24px; transition: all 0.4s cubic-bezier(0.23,1,0.32,1); box-shadow: 0 10px 30px rgba(255,0,255,0.2);">
       <div style="color:#ff00ff; font-size: 1.8rem; margin-bottom: 12px;">🔍 LieLens AI</div>
       <div style="color:#ccc; line-height: 1.6; margin-bottom: 20px;">
@@ -50,7 +51,8 @@
       </a>
     </div>
 
-    <!-- Finance Backend -->
+  <!-- Finance Backend -->
+    
     <div style="background: #0f0f1e; border: 2px solid #00ff9f; border-radius: 16px; padding: 24px; transition: all 0.4s cubic-bezier(0.23,1,0.32,1); box-shadow: 0 10px 30px rgba(0,255,159,0.2);">
       <div style="color:#00ff9f; font-size: 1.8rem; margin-bottom: 12px;">💰 Finance Backend</div>
       <div style="color:#ccc; line-height: 1.6; margin-bottom: 20px;">

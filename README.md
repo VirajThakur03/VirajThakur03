@@ -1,15 +1,5 @@
 # Hi, I'm Viraj Thakur 👋
 
-<div align="center">
-
-<picture>
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1f,50:1a0033,100:240046&height=260&section=header&text=Hi%2C%20I%27m%20Viraj%20Thakur&fontSize=65&fontColor=00f5ff&fontAlign=50&fontAlignY=48&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=23&descColor=00ff9f&descAlign=50&descAlignY=78&animation=twist&stroke=ff00ff" alt="Header" />
-</picture>
-
-</div>
-
-
-
 **Full Stack & AI Engineer** | Turning ideas into production-ready applications.
 
 Currently focused on building **AI-powered SaaS platforms** and **scalable backend systems**. I enjoy solving real-world problems with clean architecture, modern tools, and intelligent systems.

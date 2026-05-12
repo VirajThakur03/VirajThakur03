@@ -1,195 +1,253 @@
+<!-- 
+  ██╗   ██╗██╗██████╗  █████╗      ██╗
+  ██║   ██║██║██╔══██╗██╔══██╗     ██║
+  ██║   ██║██║██████╔╝███████║     ██║
+  ╚██╗ ██╔╝██║██╔══██╗██╔══██║██   ██║
+   ╚████╔╝ ██║██║  ██║██║  ██║╚█████╔╝
+    ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
+-->
+
 <div align="center">
 
-  <!-- Hero Section -->
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Status">
-  
-  <h1 style="font-size: 3.8rem; margin: 20px 0 10px; background: linear-gradient(90deg, #00f5ff, #ff00ff, #00ff9f); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'SF Mono', monospace;">
-    VIRAJ THAKUR
-  </h1>
-  
-  <p style="font-size: 1.65rem; color: #a0f0ff; margin-bottom: 8px;">
-    <strong>Full Stack &amp; AI Engineer</strong> ⚡
-  </p>
-  
-  <p style="max-width: 680px; font-size: 1.2rem; color: #b0ffc0; line-height: 1.7;">
-    Turning bold ideas into production-grade AI systems.<br>
-    Currently building intelligent SaaS platforms and scalable backend infrastructure.
-  </p>
+<!-- ANIMATED HEADER -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=200&section=header&text=VIRAJ%20THAKUR&fontSize=60&fontColor=00f5ff&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=18&descColor=a0aec0&descAlignY=75&animation=fadeIn" />
+</picture>
 
-  <div style="margin: 30px 0;">
-    <img src="https://img.shields.io/badge/Building-AI_SaaS_v2.0-00ff9f?style=flat-square&logo=ai&logoColor=00ff9f" alt="Building">
-    <img src="https://img.shields.io/badge/Focused-Explainable_AI-ff00ff?style=flat-square" alt="Focus">
-  </div>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Turning+ideas+into+production+apps;Building+AI-powered+SaaS+platforms;Shipping+scalable+backend+systems;Clean+architecture+%7C+Intelligent+systems" alt="Typing SVG" /></a>
 
-  <hr style="border: 1px solid #00f5ff33; width: 60%; margin: 40px auto;">
+<!-- BADGES ROW -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20SaaS%20Platforms-00f5ff?style=for-the-badge&labelColor=0d1117&color=00f5ff" />
+  <img src="https://img.shields.io/badge/Currently-Building%20%26%20Shipping-blueviolet?style=for-the-badge&labelColor=0d1117&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e" />
+</p>
 
-  <!-- Featured Projects -->
-  <h2 style="color: #00f5ff; margin-bottom: 25px;">🚀 FEATURED MISSIONS</h2>
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="mailto:virajthakur987.vt@gmail.com"><img src="https://img.shields.io/badge/Email-virajthakur987.vt@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://github.com/VirajThakur03"><img src="https://img.shields.io/github/followers/VirajThakur03?label=Follow&style=flat-square&logo=github&labelColor=0d1117&color=00f5ff" /></a>
+</p>
 
-  <table style="width: 100%; max-width: 1100px; border-collapse: collapse; margin: 0 auto;">
-    <tr>
-      <td style="padding: 20px; background: #0f0f1e; border: 2px solid #ff00ff; border-radius: 16px; width: 50%;">
-        <h3 style="color:#ff00ff; margin: 0 0 12px 0;">🔍 LieLens AI</h3>
-        <p style="color:#ddd; margin: 0 0 18px 0; line-height: 1.6;">
-          AI-powered SaaS for risk &amp; credibility analysis with explainable NLP, token heatmaps, and PDF intelligence.
-        </p>
-        <div style="margin: 15px 0;">
-          <span style="background:#1a0033; color:#ff00ff; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">Django</span>
-          <span style="background:#1a0033; color:#ff00ff; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">Celery + Redis</span>
-          <span style="background:#1a0033; color:#ff00ff; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">Hybrid AI</span>
-        </div>
-        <a href="https://github.com/VirajThakur03/lielens-ai-saas" style="color:#ff00ff; font-weight: 600; text-decoration: none;">→ View Project ↗</a>
-      </td>
-      
-      <td style="padding: 20px; background: #0f0f1e; border: 2px solid #00ff9f; border-radius: 16px; width: 50%;">
-        <h3 style="color:#00ff9f; margin: 0 0 12px 0;">💰 Finance Backend</h3>
-        <p style="color:#ddd; margin: 0 0 18px 0; line-height: 1.6;">
-          High-performance FastAPI backend with RBAC, advanced analytics, full testing suite &amp; Docker support.
-        </p>
-        <div style="margin: 15px 0;">
-          <span style="background:#002b1a; color:#00ff9f; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">FastAPI</span>
-          <span style="background:#002b1a; color:#00ff9f; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">PostgreSQL</span>
-          <span style="background:#002b1a; color:#00ff9f; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">RBAC</span>
-        </div>
-        <a href="https://github.com/VirajThakur03/Finance_backend" style="color:#00ff9f; font-weight: 600; text-decoration: none;">→ View Project ↗</a>
-      </td>
-    </tr>
-  </table>
+</div>
 
-  <h2 style="color: #00f5ff; margin: 50px 0 25px;">🛠️ NEURAL STACK</h2>
+---
 
-  <p>
-    <code style="background:#1a0033; color:#00f5ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">Python</code>
-    <code style="background:#1a0033; color:#ff00ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">FastAPI</code>
-    <code style="background:#1a0033; color:#00ff9f; padding: 10px 18px; border-radius: 50px; margin: 6px;">Django</code>
-    <code style="background:#1a0033; color:#ffff80; padding: 10px 18px; border-radius: 50px; margin: 6px;">NLP + ML</code>
-    <code style="background:#1a0033; color:#00f5ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">Docker • Redis • Celery</code>
-    <code style="background:#1a0033; color:#ff00ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">PostgreSQL</code>
-  </p>
+<!-- ABOUT SECTION -->
+<img align="right" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding gif" />
 
-  <h2 style="color: #00f5ff; margin: 50px 0 20px;">🎯 TRANSMISSION LOG</h2>
+```python
+class VirajThakur:
+    def __init__(self):
+        self.name        = "Viraj Thakur"
+        self.role        = "Full Stack & AI Engineer"
+        self.location    = "India 🇮🇳"
+        self.email       = "virajthakur987.vt@gmail.com"
 
-  <ul style="text-align: left; max-width: 680px; margin: 0 auto; font-size: 1.15rem; line-height: 2.1; color: #b0d0ff;">
-    <li>Advancing Explainable AI in real-world applications</li>
-    <li>Building production-ready full-stack AI SaaS products</li>
-    <li>Deepening System Design &amp; Scalable Architecture</li>
-  </ul>
+    @property
+    def currently_building(self):
+        return [
+            "AI-powered SaaS platforms",
+            "Scalable backend systems",
+            "Explainable AI pipelines",
+        ]
 
-  <br><br>
+    @property
+    def tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "backend":   ["FastAPI", "Django", "Flask"],
+            "ai_ml":     ["NLP", "Scikit-learn", "Pandas"],
+            "frontend":  ["HTML", "CSS", "React (learning)"],
+            "infra":     ["Docker", "Redis", "Celery",
+                          "PostgreSQL", "GitHub Actions"],
+        }
 
-  <!-- Connect -->
-  <h2 style="color: #00f5ff;">📡 CONNECT WITH ME</h2>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:virajthakur987.vt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+    def __repr__(self):
+        return "Always learning, building, and shipping. 🚀"
+```
 
-  <br><br>
+<br clear="right"/>
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VirajThakur03&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00f5ff&text_color=00ff9f&icon_color=ff00ff" alt="GitHub Stats" style="border-radius: 12px; margin: 20px 0;"/>
+---
 
-  <p style="margin-top: 40px; font-size: 1.35rem; color: #88ffcc; font-family: monospace;">
-    ALWAYS LEARNING • ALWAYS SHIPPING • NEVER SETTLING
-  </p>
+## 🚀 Featured Projects
 
-</div><div align="center">
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <!-- Hero Section -->
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Status">
-  
-  <h1 style="font-size: 3.8rem; margin: 20px 0 10px; background: linear-gradient(90deg, #00f5ff, #ff00ff, #00ff9f); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'SF Mono', monospace;">
-    VIRAJ THAKUR
-  </h1>
-  
-  <p style="font-size: 1.65rem; color: #a0f0ff; margin-bottom: 8px;">
-    <strong>Full Stack &amp; AI Engineer</strong> ⚡
-  </p>
-  
-  <p style="max-width: 680px; font-size: 1.2rem; color: #b0ffc0; line-height: 1.7;">
-    Turning bold ideas into production-grade AI systems.<br>
-    Currently building intelligent SaaS platforms and scalable backend infrastructure.
-  </p>
+### 🔬 LieLens AI
+> AI-powered SaaS for writing risk & credibility analysis
 
-  <div style="margin: 30px 0;">
-    <img src="https://img.shields.io/badge/Building-AI_SaaS_v2.0-00ff9f?style=flat-square&logo=ai&logoColor=00ff9f" alt="Building">
-    <img src="https://img.shields.io/badge/Focused-Explainable_AI-ff00ff?style=flat-square" alt="Focus">
-  </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirajThakur03&repo=lielens-ai-saas&theme=github_dark&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&icon_color=7c3aed)](https://github.com/VirajThakur03/lielens-ai-saas)
 
-  <hr style="border: 1px solid #00f5ff33; width: 60%; margin: 40px auto;">
+**Stack:** `Django` `Celery` `Redis` `Docker` `NLP`
 
-  <!-- Featured Projects -->
-  <h2 style="color: #00f5ff; margin-bottom: 25px;">🚀 FEATURED MISSIONS</h2>
+✦ Hybrid NLP + ML scoring engine  
+✦ Token-level explainability heatmaps  
+✦ PDF report generation  
+✦ REST API support  
 
-  <table style="width: 100%; max-width: 1100px; border-collapse: collapse; margin: 0 auto;">
-    <tr>
-      <td style="padding: 20px; background: #0f0f1e; border: 2px solid #ff00ff; border-radius: 16px; width: 50%;">
-        <h3 style="color:#ff00ff; margin: 0 0 12px 0;">🔍 LieLens AI</h3>
-        <p style="color:#ddd; margin: 0 0 18px 0; line-height: 1.6;">
-          AI-powered SaaS for risk &amp; credibility analysis with explainable NLP, token heatmaps, and PDF intelligence.
-        </p>
-        <div style="margin: 15px 0;">
-          <span style="background:#1a0033; color:#ff00ff; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">Django</span>
-          <span style="background:#1a0033; color:#ff00ff; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">Celery + Redis</span>
-          <span style="background:#1a0033; color:#ff00ff; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">Hybrid AI</span>
-        </div>
-        <a href="https://github.com/VirajThakur03/lielens-ai-saas" style="color:#ff00ff; font-weight: 600; text-decoration: none;">→ View Project ↗</a>
-      </td>
-      
-      <td style="padding: 20px; background: #0f0f1e; border: 2px solid #00ff9f; border-radius: 16px; width: 50%;">
-        <h3 style="color:#00ff9f; margin: 0 0 12px 0;">💰 Finance Backend</h3>
-        <p style="color:#ddd; margin: 0 0 18px 0; line-height: 1.6;">
-          High-performance FastAPI backend with RBAC, advanced analytics, full testing suite &amp; Docker support.
-        </p>
-        <div style="margin: 15px 0;">
-          <span style="background:#002b1a; color:#00ff9f; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">FastAPI</span>
-          <span style="background:#002b1a; color:#00ff9f; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">PostgreSQL</span>
-          <span style="background:#002b1a; color:#00ff9f; padding: 5px 14px; border-radius: 30px; font-size: 0.9rem;">RBAC</span>
-        </div>
-        <a href="https://github.com/VirajThakur03/Finance_backend" style="color:#00ff9f; font-weight: 600; text-decoration: none;">→ View Project ↗</a>
-      </td>
-    </tr>
-  </table>
+</td>
+<td width="50%" valign="top">
 
-  <h2 style="color: #00f5ff; margin: 50px 0 25px;">🛠️ NEURAL STACK</h2>
+### 💰 Finance Backend
+> High-performance personal finance tracking API
 
-  <p>
-    <code style="background:#1a0033; color:#00f5ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">Python</code>
-    <code style="background:#1a0033; color:#ff00ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">FastAPI</code>
-    <code style="background:#1a0033; color:#00ff9f; padding: 10px 18px; border-radius: 50px; margin: 6px;">Django</code>
-    <code style="background:#1a0033; color:#ffff80; padding: 10px 18px; border-radius: 50px; margin: 6px;">NLP + ML</code>
-    <code style="background:#1a0033; color:#00f5ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">Docker • Redis • Celery</code>
-    <code style="background:#1a0033; color:#ff00ff; padding: 10px 18px; border-radius: 50px; margin: 6px;">PostgreSQL</code>
-  </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirajThakur03&repo=Finance_backend&theme=github_dark&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&icon_color=00f5ff)](https://github.com/VirajThakur03/Finance_backend)
 
-  <h2 style="color: #00f5ff; margin: 50px 0 20px;">🎯 TRANSMISSION LOG</h2>
+**Stack:** `FastAPI` `PostgreSQL` `Docker` `RBAC`
 
-  <ul style="text-align: left; max-width: 680px; margin: 0 auto; font-size: 1.15rem; line-height: 2.1; color: #b0d0ff;">
-    <li>Advancing Explainable AI in real-world applications</li>
-    <li>Building production-ready full-stack AI SaaS products</li>
-    <li>Deepening System Design &amp; Scalable Architecture</li>
-  </ul>
+✦ Role-Based Access Control  
+✦ Advanced analytics engine  
+✦ Full test suite  
+✦ Docker-ready deployment  
 
-  <br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  <!-- Connect -->
-  <h2 style="color: #00f5ff;">📡 CONNECT WITH ME</h2>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:virajthakur987.vt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+### 🌐 Portfolio
+> Modern, responsive personal portfolio
 
-  <br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirajThakur03&repo=portfolio2&theme=github_dark&bg_color=0d1117&border_color=22c55e&title_color=22c55e&icon_color=00f5ff)](https://github.com/VirajThakur03/portfolio2)
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VirajThakur03&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00f5ff&text_color=00ff9f&icon_color=ff00ff" alt="GitHub Stats" style="border-radius: 12px; margin: 20px 0;"/>
+**Stack:** `HTML` `CSS` `JavaScript`
 
-  <p style="margin-top: 40px; font-size: 1.35rem; color: #88ffcc; font-family: monospace;">
-    ALWAYS LEARNING • ALWAYS SHIPPING • NEVER SETTLING
-  </p>
+✦ Fully responsive design  
+✦ Project showcase  
+✦ Clean modern UI  
 
+</td>
+<td width="50%" valign="top">
+
+### 🔭 More Coming Soon...
+
+```
+> git log --oneline --all
+
+* a7f3c2e  feat: new SaaS product [WIP]
+* 3d81b09  feat: system design project
+* f0c4a71  feat: open source contrib
+* ...      building in stealth 👀
+```
+
+Stay tuned. More projects shipping soon.  
+[→ Explore all repositories](https://github.com/VirajThakur03?tab=repositories)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00f5ff?style=for-the-badge&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VirajThakur03&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&icon_color=7c3aed&text_color=a0aec0&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajThakur03&layout=compact&theme=github_dark&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&text_color=a0aec0" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajThakur03&theme=github-dark-blue&background=0d1117&border=00f5ff&stroke=00f5ff&ring=7c3aed&fire=ff6b6b&currStreakNum=00f5ff&sideNums=a0aec0&currStreakLabel=00f5ff&sideLabels=a0aec0&dates=4a5568" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VirajThakur03&bg_color=0d1117&color=00f5ff&line=7c3aed&point=00f5ff&area=true&area_color=7c3aed&hide_border=false&border_color=00f5ff" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  MISSION LOG — 2025                                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [▓▓▓▓▓▓▓▓▓▓░░░░░]  AI Explainability Research     70% ║
+║  [▓▓▓▓▓▓▓▓░░░░░░░]  Full-Stack SaaS Products       55% ║
+║  [▓▓▓▓▓▓▓▓▓▓▓░░░░]  System Design & Architecture   75% ║
+║  [▓▓▓▓▓░░░░░░░░░░]  React Mastery                  35% ║
+║                                                          ║
+║  STATUS: Building in production. Shipping daily. 🚀     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+| Platform | Handle |
+|----------|--------|
+| 📧 **Email** | [virajthakur987.vt@gmail.com](mailto:virajthakur987.vt@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
+| 🐙 **GitHub** | [@VirajThakur03](https://github.com/VirajThakur03) |
+
+> *"The best way to predict the future is to build it."*  
+> — Viraj, probably, while pushing a commit at 2am
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=100&section=footer&text=Always%20learning.%20Always%20shipping.&fontSize=18&fontColor=00f5ff&fontAlign=50&fontAlignY=65&animation=fadeIn" />
+</picture>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VirajThakur03&label=Profile+Views&color=00f5ff&style=flat-square" />
 </div>

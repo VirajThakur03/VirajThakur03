@@ -1,4 +1,4 @@
-# Hi, I'm Viraj Thakur 👋
+# Hi, I'm Viraj Thakur 👋-
 
 **Full Stack & AI Engineer** | Turning ideas into production-ready applications.
 
